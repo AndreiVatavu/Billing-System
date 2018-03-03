@@ -1,0 +1,3 @@
+Produs Categorie RO IT SP
+Paine Patiserie -1 2.0 1.4
+Conserva_Carne Mancare -1 5 8
